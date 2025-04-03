@@ -19,4 +19,5 @@
 #
 ---
 include:
+  - board: nfrmicro_13
   - board: bt60_v1_hs
